@@ -1,7 +1,6 @@
 # My personal Dotfiles
 
-
-Symlink command example
+Symlink command to remember
 
 ```bash
 # 1. pick a repo or backup directory for dotfiles
@@ -21,3 +20,4 @@ ls -l ~/.config | grep nvim
 1. Neovim
 2. Zshrc
 3. Hyde.Zshrc
+4. Tmux config
